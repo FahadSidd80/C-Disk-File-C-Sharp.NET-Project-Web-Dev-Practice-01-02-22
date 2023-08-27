@@ -1,0 +1,8 @@
+C:\C#.NET_Program_01-02-22\CTS_Practice_C_Sharp\CTS_Practice_C_Sharp\obj\Debug\CTS_Practice_C_Sharp.csproj.AssemblyReference.cache
+C:\C#.NET_Program_01-02-22\CTS_Practice_C_Sharp\CTS_Practice_C_Sharp\obj\Debug\CTS_Practice_C_Sharp.csproj.SuggestedBindingRedirects.cache
+C:\C#.NET_Program_01-02-22\CTS_Practice_C_Sharp\CTS_Practice_C_Sharp\obj\Debug\CTS_Practice_C_Sharp.csproj.CoreCompileInputs.cache
+C:\C#.NET_Program_01-02-22\CTS_Practice_C_Sharp\CTS_Practice_C_Sharp\bin\Debug\CTS_Practice_C_Sharp.exe.config
+C:\C#.NET_Program_01-02-22\CTS_Practice_C_Sharp\CTS_Practice_C_Sharp\bin\Debug\CTS_Practice_C_Sharp.exe
+C:\C#.NET_Program_01-02-22\CTS_Practice_C_Sharp\CTS_Practice_C_Sharp\bin\Debug\CTS_Practice_C_Sharp.pdb
+C:\C#.NET_Program_01-02-22\CTS_Practice_C_Sharp\CTS_Practice_C_Sharp\obj\Debug\CTS_Practice_C_Sharp.exe
+C:\C#.NET_Program_01-02-22\CTS_Practice_C_Sharp\CTS_Practice_C_Sharp\obj\Debug\CTS_Practice_C_Sharp.pdb

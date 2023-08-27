@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Master_Page_With_Login.Default" %>
+<%@ Register Src="~/Header.ascx" TagName="myHead" TagPrefix="asx" %>
+<%@ Register Src="~/Footer.ascx" TagName="myFoot" TagPrefix="asx" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table style="height: 204px">
+                <tr>
+                    <td>
+                        <asx:myHead id="h1" runat="Server"></asx:myHead>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>
+                          <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                          </asp:ContentPlaceHolder>
+                        </center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asx:myFoot id="f1" runat="Server"></asx:myFoot>
+                    </td>
+                </tr>
+            </table>
+           
+        </div>
+    </form>
+</body>
+</html>

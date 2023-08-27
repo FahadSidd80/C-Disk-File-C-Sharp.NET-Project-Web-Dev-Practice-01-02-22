@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppEdit", "WebAppEdit\WebAppEdit.csproj", "{A589973D-3FE9-4815-8DBF-348338B3341A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A589973D-3FE9-4815-8DBF-348338B3341A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A589973D-3FE9-4815-8DBF-348338B3341A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A589973D-3FE9-4815-8DBF-348338B3341A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A589973D-3FE9-4815-8DBF-348338B3341A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227C5781-913B-45B8-A4D5-A13F06359BB2}
+	EndGlobalSection
+EndGlobal

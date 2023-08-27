@@ -1,0 +1,16 @@
+C:\Users\2101811\source\repos\ElectricityConsoleApp\ElectricityConsoleApp\bin\Debug\ElectricityConsoleApp.exe.config
+C:\Users\2101811\source\repos\ElectricityConsoleApp\ElectricityConsoleApp\bin\Debug\ElectricityConsoleApp.exe
+C:\Users\2101811\source\repos\ElectricityConsoleApp\ElectricityConsoleApp\bin\Debug\ElectricityConsoleApp.pdb
+C:\Users\2101811\source\repos\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.csproj.AssemblyReference.cache
+C:\Users\2101811\source\repos\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\2101811\source\repos\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\2101811\source\repos\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.exe
+C:\Users\2101811\source\repos\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.pdb
+C:\Users\2101917\Downloads\ElectricityConsoleApp\ElectricityConsoleApp\ElectricityConsoleApp\bin\Debug\ElectricityConsoleApp.exe.config
+C:\Users\2101917\Downloads\ElectricityConsoleApp\ElectricityConsoleApp\ElectricityConsoleApp\bin\Debug\ElectricityConsoleApp.exe
+C:\Users\2101917\Downloads\ElectricityConsoleApp\ElectricityConsoleApp\ElectricityConsoleApp\bin\Debug\ElectricityConsoleApp.pdb
+C:\Users\2101917\Downloads\ElectricityConsoleApp\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.csproj.AssemblyReference.cache
+C:\Users\2101917\Downloads\ElectricityConsoleApp\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\2101917\Downloads\ElectricityConsoleApp\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\2101917\Downloads\ElectricityConsoleApp\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.exe
+C:\Users\2101917\Downloads\ElectricityConsoleApp\ElectricityConsoleApp\ElectricityConsoleApp\obj\Debug\ElectricityConsoleApp.pdb

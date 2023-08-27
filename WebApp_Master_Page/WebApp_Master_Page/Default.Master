@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="WebApp_Master_Page.Default" %>
+<%@ Register  Src="~/Header.ascx" TagName="headern" TagPrefix="myhead" %>
+<%@ Register Src="~/Footer.ascx" TagName="footern" TagPrefix="myfoot" %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <script src="jquery.js"></script>
+    <link href="menu.css" rel="stylesheet" />
+    <script src="menu.js"></script>
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table>
+                <tr>
+                    <td>
+                        <myhead:headern id="h1" runat="Server"></myhead:headern>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div id="menu">
+		                <ul class="menu">
+			            <li><a href="EmployeeForm.aspx" class="parent"><span>Employee Form</span></a>
+			            <li><a href="StudentForm.aspx" class="parent"><span>Student Form</span></a>
+			            <li><a href="LoginForm.aspx" class="parent"><span>Login Form</span></a>
+				
+		            </ul>
+	                </div>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>
+                         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                         </asp:ContentPlaceHolder>
+
+                        </center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <myfoot:footern id="f1" runat="Server"></myfoot:footern>
+                    </td>
+                </tr>
+            </table>
+           
+        </div>
+    </form>
+</body>
+</html>
